@@ -66,5 +66,30 @@ public class Program
     /**
     * Create functions for Box Breathing and Daily Hypotheticals below:
     */
-
+public static void BoxBreathing()
+{
+Console.WriteLine("Inhale for 4 seconds.");
+Console.WriteLine("Hold breath for 4 seconds.");
+Console.WriteLine("Exhale for 4 seconds.");
+Console.WriteLine("Hold breath for 4 seconds.");
+Console.WriteLine("Inhale for 4 seconds.");
+Console.WriteLine("Hold breath for 4 seconds.");
+Console.WriteLine("Exhale for 4 seconds.");
+Console.WriteLine("Hold breath for 4 seconds.");
+Console.WriteLine("Inhale for 4 seconds.");
+Console.WriteLine("Hold breath for 4 seconds.");
+Console.WriteLine("Exhale for 4 seconds.");
+Console.WriteLine("Hold breath for 4 seconds.");
+Console.WriteLine("Inhale for 4 seconds.");
+Console.WriteLine("Hold breath for 4 seconds.");
+Console.WriteLine("Exhale for 4 seconds.");
+Console.WriteLine("Hold breath for 4 seconds.");
+Console.WriteLine("Inhale for 4 seconds.");
+Console.WriteLine("Hold breath for 4 seconds.");
+Console.WriteLine("Exhale for 4 seconds.");
+Console.WriteLine("Hold breath for 4 seconds.");
+    }
 }
+
+
+
